@@ -12,7 +12,7 @@ To what extent do probabilistic graphical models accurately estimate asset value
 - External‑attack probability ($p_j$): Likelihood that an asset is compromised from an external source.
 
 - Internal‑exploit probability ($p_{ij}$): Likelihood of propagation between connected assets, assigned for each directed connection.
-
+ 
 - BAG inference ($p_{base}$e): Marginal compromise probabilities via noisy‑OR model.
 
 - Cascade impact: Monte Carlo estimates of breach propagation starting from each asset.
