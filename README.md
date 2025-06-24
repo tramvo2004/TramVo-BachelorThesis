@@ -17,5 +17,5 @@ To what extent do probabilistic graphical models accurately estimate asset value
 
 - Cascade impact: Monte Carlo estimates of breach propagation starting from each asset.
 
-_ ALE computation: Asset Value (AV), Exposure Factor (EF), Single Loss Expectancy (SLE).
+- ALE computation: Asset Value (AV), Exposure Factor (EF), Single Loss Expectancy (SLE).
 
