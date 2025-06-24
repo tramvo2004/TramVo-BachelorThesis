@@ -19,6 +19,10 @@ To what extent do probabilistic graphical models accurately estimate asset value
 
 - ALE computation: Asset Value (AV), Exposure Factor (EF), Single Loss Expectancy (SLE).
 
+## Approach in the notebook 
+
+
+## Experimental results
 ### Risk prioritization based on $p_{base}$
 The red nodes are high-risk assets and the green nodes stand for low-risk assets
 ![image](https://github.com/user-attachments/assets/6950a61f-a867-4200-8181-5bcfcc5cff3c)
