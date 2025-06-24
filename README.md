@@ -26,6 +26,19 @@ To what extent do probabilistic graphical models accurately estimate asset value
 
 
 ## Experimental results
-### Risk prioritization based on $p_{base}$
-The red nodes are high-risk assets and the green nodes stand for low-risk assets
-![image](https://github.com/user-attachments/assets/6950a61f-a867-4200-8181-5bcfcc5cff3c)
+
+The experimental results were illustrated in the .ipynb files.
+
+Main summary of the results:
+1. $p_j$:
+   - Identify the assets that more likely to be chosen as the initial attack point.
+   - Highlight the asset categories that has higher chance of becoming a target.
+2. $p_{ij}$
+   - High-risk connections were identified with a threshold of 0.75.
+   - Detect the group of assets that often involed in high-risk connections.
+3. $p_{base}$: Risk prioritization for assets in the network.
+4. mean_cascade and the chance that an asset spread the infection to at least one another asset if it is compromised.
+   - Identify top critical assets, those with the ability to spread the infection to entire network.
+   - Point out asset categories that have high impact on the network.
+5. ALE: the influence between each components on ALE.
+   
