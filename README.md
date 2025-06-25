@@ -19,8 +19,11 @@ To what extent do probabilistic graphical models accurately estimate asset value
 
 - ALE computation: Asset Value (AV), Exposure Factor (EF), Single Loss Expectancy (SLE).
 
-## Approach in the notebook 
-![Screenshot 2025-06-24 at 18 53 50](https://github.com/user-attachments/assets/a9eeb541-8145-479f-a276-23543b80072d)
+## Approach in the project
+The final report and code file follows similar outlines.
+
+![Screenshot 2025-06-25 at 11 28 28](https://github.com/user-attachments/assets/6dc7b906-6aa9-4f92-ad81-6b59b49b11f3)
+![Screenshot 2025-06-25 at 11 27 19](https://github.com/user-attachments/assets/f2d8bbee-e056-4144-9291-93c4aee600e3)
 ![Screenshot 2025-06-24 at 18 56 04](https://github.com/user-attachments/assets/a150c6cf-d2fa-4adb-916f-6683f71789f3)
 
 
